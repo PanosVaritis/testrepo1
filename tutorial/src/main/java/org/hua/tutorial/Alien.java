@@ -18,7 +18,4 @@ public class Alien {
         return 0;
     }
     
-    public int getName (){
-        return 10;
-    }
 }

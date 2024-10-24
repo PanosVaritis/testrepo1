@@ -15,8 +15,5 @@ public class OgreAlien extends Alien {
         return 6;
     }
     
-    public void getAge (){
-        System.out.println ("The age is 20 years old!!!");
-    }
-    
+   
 }

@@ -28,8 +28,5 @@ public class AlienPack {
         return damage;
     }
     
-    public void printName (){
-        System.out.println ("My name is panos!!!");
-    }
     
 }
