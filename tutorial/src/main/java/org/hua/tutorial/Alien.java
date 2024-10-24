@@ -17,4 +17,8 @@ public class Alien {
     public int getDamage (){
         return 0;
     }
+    
+    public int getName (){
+        return 10;
+    }
 }
